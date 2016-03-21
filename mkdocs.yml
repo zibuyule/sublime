@@ -1,0 +1,7 @@
+site_name: My Docs
+site_description: Description of the documentation
+theme: readthedocs
+pages:
+- ['index.md', 'Index']
+- ['sublimetext/setup.md','Sublime','setup']
+- ['sublimetext/config.md','Sublime','config']
